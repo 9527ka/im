@@ -1,11 +1,11 @@
 # im
-<span style="color:#e33434;">
+<div style="color:#e33434;">
 PS：
 <br>
 客服经理：https://t.me/AlanTurings
 <br>
 承接：交易所、刷单、仿TikTok｜Amazon商城、光伏投资理财等源码，或其它仿站
-</span>
+</div>
 <h1>即时通讯系统介绍</h1>
 即时通讯H5+APP，高并发、高性能、私密端对端加密聊天
 多语言、IM即时通讯源码 支持7端互通通讯带教程源码
