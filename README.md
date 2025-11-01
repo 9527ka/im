@@ -4,6 +4,7 @@ PS：
 <br>
 客服经理：https://t.me/AlanTurings
 <br>
+<a href="https://www.pojie.help/archives/10">各种软件激活码、破解补丁</a>
 承接：IM聊天室（私有化部署｜其他云SDK部署）、交易所、刷单、仿TikTok｜Amazon商城、光伏投资理财等源码，或其它仿站
 </div>
 <h1>即时通讯系统介绍</h1>
